@@ -11,6 +11,9 @@
 <title>Insert title here</title>
 </head>
 <body>
+
+asdasd
+
 <%
 HttpSession s=request.getSession();
 ArrayList<RegistrationBean> ls=null;
